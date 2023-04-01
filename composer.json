@@ -1,0 +1,19 @@
+{
+    "name": "drupal/storybook",
+    "description": "Storybook theme attempt",
+    "type": "drupal-theme",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Erik de Kamps (erikdekamps)",
+            "homepage": "https://www.drupal.org/u/erikdekamps",
+            "role": "Maintainer"
+        }
+    ],
+    "homepage": "https://drupal.org/project/example_project",
+    "support": {
+        "issues": "https://drupal.org/project/issues/example_project",
+        "source": "https://git.drupalcode.org/project/example_project"
+    },
+    "require": {}
+}
