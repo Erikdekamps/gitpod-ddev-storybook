@@ -1,7 +1,7 @@
 {
     "name": "erikdekamps/gitpod-ddev-storybook",
     "description": "Storybook theme attempt",
-    "type": "drupal-theme",
+    "type": "drupal-custom-theme",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
