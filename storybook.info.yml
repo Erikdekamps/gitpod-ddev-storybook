@@ -8,6 +8,9 @@ libraries:
 core_version_requirement: ^10
 generator: 'starterkit_theme:10.0.7'
 
+dependencies:
+  - components/components
+
 #component-libraries:
 components:
   namespaces:
