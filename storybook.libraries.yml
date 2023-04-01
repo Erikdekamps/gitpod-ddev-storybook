@@ -1,0 +1,4 @@
+base:
+  css:
+    theme:
+      dist/style.css: { minified: true }

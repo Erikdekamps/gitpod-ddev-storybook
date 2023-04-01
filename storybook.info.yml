@@ -1,0 +1,19 @@
+name: Storybook
+type: theme
+'base theme': stable9
+starterkit: true
+version: VERSION
+libraries:
+  - storybook/base
+core_version_requirement: ^10
+generator: 'starterkit_theme:10.0.7'
+
+#component-libraries:
+components:
+  namespaces:
+    base: components/00-base
+    atoms: components/01-atoms
+    molecules: components/02-molecules
+    organisms: components/03-organisms
+    templates: components/04-templates
+    pages: components/05-pages
