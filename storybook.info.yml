@@ -9,7 +9,7 @@ core_version_requirement: ^10
 generator: 'starterkit_theme:10.0.7'
 
 dependencies:
-  - drupal/components
+  - drupal:components
 
 #component-libraries:
 components:
