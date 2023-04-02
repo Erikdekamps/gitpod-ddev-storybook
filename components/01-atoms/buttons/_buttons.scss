@@ -4,8 +4,8 @@ $button-colors: (
   primary: (
     text: clr(text-inverse),
     bg: clr(primary),
-    text-hover: clr(primary),
-    bg-hover: clr(highlight),
+    text-hover: clr(text-inverse),
+    bg-hover: clr(text),
   ),
   primary-dark: (
     text: clr(text),
